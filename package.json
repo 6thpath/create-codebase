@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lPaths/project-creator"
+    "url": "https://github.com/lPaths/create-codebase"
   },
   "bugs": {
-    "url": "https://github.com/lPaths/project-creator/issues"
+    "url": "https://github.com/lPaths/create-codebase/issues"
   },
   "main": "index.js",
   "files": [
